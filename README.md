@@ -1,6 +1,6 @@
-# BioSales.AI Employee Handbook
+# The Handbook
 
-## History of the handbook
+## History of The Handbook
 The handbook started when BioSales.AI was a company of just two people focused on helping biotechnology companies put their life-saving products in front of great customers. We knew that future BioSales.AI team-members wouldn’t be able to see emails about process changes that were being sent before they joined and that most of the people who would eventually join BioSales.AI likely hadn’t even heard of us yet. 
 
 Inspired by [The Gitlab Handbook](https://handbook.gitlab.com/handbook/about/), we knew this would ensure that all of our company information was accessible to everyone regardless of when they became part of the team.
